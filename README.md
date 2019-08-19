@@ -1,3 +1,3 @@
 ### vpreuss.xyz
 
-first commit for my personal website
+My personal website aimed to document stuff about electronics and computers
