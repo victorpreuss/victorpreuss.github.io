@@ -4,4 +4,14 @@ title: About
 permalink: /about/
 ---
 
-My name is Victor Preuss and I'm currently pursuing a master's at the Federal University of Santa Catarina in the field of RF and microwave electronics. My main interests are related to RF technology and computers, specially linux related stuff and open-source software. I'm the happy owner of a librebooted T400 and use a riced i3 environment running ArchLinux.
+Hello!
+
+My name is Victor Preuss and I'm a brazilian electrical engineer. I currently live in Florianópolis and am pursuing a master's degree in the field of RF and microwave electronics at UFSC.
+
+Currently, my main interests are:
+- RF circuits
+- Analog electronics
+- Embedded systems (low-level firmware stuff)
+- Linux and open-source software (I even own a Thinkpad T400 running Libreboot, ArchLinux (btw) and a riced i3 environment hehe)
+
+If you wanna contact me, please send me an email at vhpreuss@yahoo.com
