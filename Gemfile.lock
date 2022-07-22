@@ -58,7 +58,7 @@ GEM
     sass-listen (4.0.0)
       rb-inotify (>= 0.9.7, >= 0.9)
     thread_safe (0.3.6)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     tzinfo-data (1.2019.3)
       tzinfo (>= 1.0.0)
